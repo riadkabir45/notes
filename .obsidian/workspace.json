@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "32a0924773492214",
@@ -161,17 +160,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "fit:Sync to GitHub": false
     }
   },
   "active": "70b288dc94cfecc7",
   "lastOpenFiles": [
-    "journals/2025_05_07.md",
-    "journals/2025_05_08.md"
+    "pages/Unix.md",
+    "pages/Light.md",
+    "pages/Habit.md",
+    "pages/Doubt.md",
+    "logseq/bak/journals/2025_12_22/2025-12-22T05_04_21.335Z.Desktop.md",
+    "logseq/bak/journals/2025_06_09/2025-06-29T08_32_05.806Z.Desktop.md",
+    "logseq/bak/journals/2025_06_09/2025-06-23T05_10_45.067Z.Desktop.md",
+    "logseq/bak/journals/2025_06_09/2025-06-18T15_36_49.014Z.Desktop.md",
+    "logseq/bak/journals/2025_06_09/2025-06-18T08_51_57.367Z.Desktop.md",
+    "logseq/bak/journals/2025_06_09/2025-06-12T13_17_47.638Z.Desktop.md",
+    "logseq/bak/journals/2025_05_08/2025-12-22T04_52_31.363Z.Desktop.md",
+    "logseq/bak/journals/2025_05_07/2025-12-22T04_53_38.846Z.Desktop.md",
+    "logseq/bak/journals/2025_12_22",
+    "logseq/bak/journals/2025_06_09",
+    "logseq/bak/journals/2025_05_08",
+    "logseq/bak/journals/2025_05_07",
+    "logseq/bak/journals",
+    "logseq/bak",
+    "journals/2025_12_22.md",
+    "journals/2025_07_21.md",
+    "journals/2025_07_11.md",
+    "journals/2025_06_23.md",
+    "journals/2025_06_09.md",
+    "journals/2025_06_08.md",
+    "_fit/logseq/config.edn",
+    "_fit/journals/2025_06_05.md",
+    "_fit/journals/2025_05_13.md",
+    "_fit/journals/2025_05_12.md",
+    "_fit/journals/2025_05_11.md",
+    "_fit/logseq",
+    "_fit/journals",
+    "_fit",
+    "Untitled.md",
+    "journals/2025_05_08.md",
+    "journals/2025_05_07.md"
   ]
 }
