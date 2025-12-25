@@ -1,1 +1,1 @@
-- Unix and Linux related stuff #OS
+- Unix and Linux related stuff #OS #SystemAdmin
