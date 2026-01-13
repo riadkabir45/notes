@@ -1,1 +1,1 @@
-- Cloud computing related stuff #SystemAdmin
+- Cloud computing or renting your hardware/software for money
